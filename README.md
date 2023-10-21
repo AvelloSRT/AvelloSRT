@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### I'm Mateusz
-### I have basic knowledge of JavaScript, HTML5, CSS, PHP, SQL and C#
+### I have basic knowledge of 
+JavaScript, HTML5, CSS, PHP, SQL and C#
 📫 How to reach me: mtburek.it2@gmail.com
 
 <!--
